@@ -95,6 +95,7 @@ nav ul li a {
 
 .center h1 {
     color: aliceblue;
+    font-size: 20px;
     padding-top: 80px;
     font-family: cooper;
     transition: 0.5s;
